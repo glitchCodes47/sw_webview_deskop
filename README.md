@@ -1,1 +1,1 @@
-# sw_webview_deskop
+webview1.getSettings().setBuiltInZoomControls(true);webview1.getSettings().setDisplayZoomControls(false);
